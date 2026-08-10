@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+requests
+tavily-python
+python-dotenv
+langchainhub
+streamlit
